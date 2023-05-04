@@ -1,0 +1,18 @@
+{
+
+"ADS":{
+
+  "max_banner": "423bd4e7c92d4b92",
+  "inter_max": "bca4cfccab4818ad",
+  "Native_max": "d775a79e570073dc",
+
+  "key_iron" : "116c9c355",
+
+  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+  "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+  
+
+  "networkAd": "max"
+
+}
+}
